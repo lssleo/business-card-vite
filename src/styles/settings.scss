@@ -1,0 +1,30 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+// src/styles/settings.scss
+
+// src/styles/settings.scss
+
+// Import Vuetify settings
+@use 'vuetify/settings' with (
+  $color-pack: true
+);
+
+body{
+  background-color: rgb(126, 0, 0);
+  font-family:  'Josefin Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
