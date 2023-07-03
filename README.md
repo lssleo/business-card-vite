@@ -1,1 +1,1 @@
-### Vizit: [Business Card](https://leonid.vercel.app/contact)
+### Vizit: [Business Card](https://leonid.vercel.app/)
