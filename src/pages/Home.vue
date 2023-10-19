@@ -20,7 +20,7 @@
                 </span>
             </h1>
             <br />
-            <p class="under-text" :style="{ opacity: opacity }" >Full-Stack Blockchain Developer | Frontend Developer</p>
+            <p class="under-text" :style="{ opacity: opacity }" >CHIEF TECHNOLOGY OFFICER | HEAD OF WEB3 EDUCATION </p>
             <br />
             <v-container>
                 <v-row justify="left">
