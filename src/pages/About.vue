@@ -30,7 +30,7 @@
             </span>
         </h1>
     <br/>
-        <p class="about-text" :style="{ opacity: opacity1 }">I am a skilled Full-Stack Blockchain Developer and Front-End Developer with a strong focus on delivering exceptional results. My proficiency extends to front-end development, making me a valuable asset for any project. </p>
+        <p class="about-text" :style="{ opacity: opacity1 }">I am a skilled Chief Technology Officer and Head Of Web3 Education with a strong focus on delivering exceptional results. </p>
         <br/>
         <p class="about-text" :style="{ opacity: opacity2 }">Throughout my career, I have excelled in collaborating with top global companies, demonstrating my exceptional skills and achieving notable accolades. I have secured first place in Solidity and third place in TypeScript, further validating my capabilities. Beyond technical expertise, I am also known for my exceptional teamwork skills, fostering successful collaboration within teams.
     </p>
