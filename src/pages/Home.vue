@@ -61,7 +61,7 @@ export default {
             line1: "Hi,",
             line2: "I'm Leonid S.",
             line3: "SUPERCHARGED",
-            line4: "Developer",
+            line4: "Expert",
             opacity: 0,
         };
     },
